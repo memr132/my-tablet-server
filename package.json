@@ -1,0 +1,12 @@
+{
+  "name": "my-tablet-server",
+  "version": "1.0.0",
+  "description": "My broken tablet server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
