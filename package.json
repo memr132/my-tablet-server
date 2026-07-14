@@ -1,12 +1,13 @@
 {
   "name": "my-tablet-server",
-  "version": "1.0.0",
-  "description": "My broken tablet server",
+  "version": "2.0.0",
+  "description": "Professional Personal Cloud Server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
   }
 }
